@@ -1,2 +1,2 @@
 # Colorful log Node Package 
-## Sandesh Kolte
+## by Sandesh Kolte
