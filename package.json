@@ -1,5 +1,5 @@
 {
-  "name": "sk-colorful-log",
+  "name": "sk-colorify",
   "version": "1.0.0",
   "description": "A library by sk to make your logs colorful",
   "main": "lib/index.js",
